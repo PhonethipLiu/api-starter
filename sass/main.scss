@@ -1,0 +1,17 @@
+$bkg-primary: rgb(155, 42, 22);
+$text-color: white;
+$link-color: rgb(212, 196, 144);
+
+body {
+    background-color: $bkg-primary;
+    color: $text-color;
+    padding: 2em 4em;
+}
+
+.card-wrapper {
+   padding: 2em 4em;
+}
+
+li a {
+    color: $link-color;
+}
